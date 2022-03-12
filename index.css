@@ -126,7 +126,6 @@ button{
     margin:1rem 2.5rem;
     text-align: center;
     padding:1rem;
-    border:none;
     border-radius: 1rem;
     font-weight: var(--fw-700)
 }
@@ -162,7 +161,7 @@ button:nth-of-type(2):hover{
 @media (max-width:35rem) {
     body{
         background-image:url(./images/pattern-background-mobile.svg);
-        background-size:contain;
+    
     }
     
 }
