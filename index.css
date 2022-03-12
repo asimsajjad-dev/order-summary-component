@@ -113,7 +113,7 @@
 }
 
 .col-1{
-    width:70%;
+    width:50%;
     display:flex;
     justify-content:flex-start;
     align-items: center;
