@@ -102,11 +102,12 @@
     display:inline-block;
 }
 .order-plan{
+    width:20rem;
     display:flex;
     align-items: center;
     justify-content: space-between;
     padding:1rem;
-    margin:0 2.5rem;
+    margin:0 auto;
     background-color: hsl(var(--clr-pale-blue));
     border-radius: 1rem;
 }
