@@ -113,10 +113,14 @@
 }
 
 .col-1{
+    width:70%;
     display:flex;
     justify-content:flex-start;
     align-items: center;
     flex-wrap: nowrap;
+}
+.col-2{
+    width:30%;
 }
 button{
     width:20rem;
