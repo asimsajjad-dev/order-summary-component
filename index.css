@@ -110,14 +110,12 @@
     background-color: hsl(var(--clr-pale-blue));
     border-radius: 1rem;
 }
-.icon{
-    display: inline-block;
-}
+
 .col-1{
     display:flex;
     justify-content:flex-start;
     align-items: center;
-    flex-wrap: wrap;
+    flex-wrap: nowrap;
 }
 button{
     width:20rem;
