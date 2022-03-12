@@ -106,6 +106,7 @@
     display:flex;
     align-items: center;
     justify-content: space-between;
+    Padding:1rem;
     margin:1rem auto 0 auto;
     background-color: hsl(var(--clr-pale-blue));
     border-radius: 1rem;
