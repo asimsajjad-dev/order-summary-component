@@ -129,9 +129,6 @@ button{
     border-radius: 1rem;
     font-weight: var(--fw-700)
 }
-h2{
-    display:inline-block;
-}
 button:nth-of-type(1){
     background-color: hsl(var(--clr-bright-blue));
     color: hsl(var(--clr-vpale-blue));
