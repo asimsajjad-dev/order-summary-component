@@ -137,7 +137,7 @@ button:nth-of-type(1){
     color: hsl(var(--clr-vpale-blue));
 }
 button:nth-of-type(2){
-    background-color: hsl(var(--clr-pale-blue));
+    background-color: hsl(var(--clr-vpale-blue));
 }
 .txt-clr{
     color: hsl(var(--clr-desaturated-blue))
